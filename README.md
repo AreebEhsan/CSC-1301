@@ -1,1 +1,1 @@
-# CS1301-Programming-Journey
+# CS1301
